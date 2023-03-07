@@ -1,0 +1,21 @@
+{
+    "name": "broseti",
+    "displayName": "BroSeti",
+    "description": "VSCode theme based on Seti and Brogrammer.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "BroSeti",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BroSeti-color-theme.json"
+            }
+        ]
+    }
+}
