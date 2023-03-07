@@ -9,3 +9,6 @@ Rename the folder from **vscode-theme-BroSeti** to **theme-BroSeti**
 - Windows %USERPROFILE%\.vscode\extensions
 - macOS ~/.vscode/extensions
 - Linux ~/.vscode/extensions
+
+**Example:**
+![screenshot](https://raw.githubusercontent.com/frederic-spielmann/VSCode-Theme-BroSeti/main/screenshot.png)
